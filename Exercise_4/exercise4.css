@@ -1,22 +1,17 @@
-body 
+#border
 {
-  margin: 50;
-  background-color: white;
+    margin: 50;
+    color: black;
+    background-color: rgb(200,200,200);
+    border-color: rgb(100,100,100);
+    border-style: solid;
+    border-width: 20;
+    padding: 30;
 }
 
 p
 {
     background-color: lightblue;
-}
-
-#edit 
-{
-    color: black;
-    background-color: pink;
-    border-color: yellow;
-    border-style: solid;
-    border-width: 20;
-    padding: 30;
 }
 
 button 
